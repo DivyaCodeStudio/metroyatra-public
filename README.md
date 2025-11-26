@@ -106,14 +106,20 @@ Clean, shareable route links for daily commuters.
 
 # Screenshots
 
-### Homepage  
-![MetroYatra Homepage](screenshots/metroyatra-homepage.png)
+### Homepage
+<p align="center">
+  <img src="screenshots/metroyatra-homepage.png" width="700" alt="MetroYatra Homepage" />
+</p>
 
-### Route Result  
-![MetroYatra Route Result](screenshots/metroyatra-route-details.png)
+### Route Result
+<p align="center">
+  <img src="screenshots/metroyatra-route-details.png" width="700" alt="MetroYatra Route Result" />
+</p>
 
-### Logo  
-![MetroYatra Logo](screenshots/metroyatra_logo.jpg)
+### Logo
+<p align="center">
+  <img src="screenshots/metroyatra_logo.jpg" width="300" alt="MetroYatra Logo" />
+</p>
 
 ---
 
