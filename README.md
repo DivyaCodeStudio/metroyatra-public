@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://metroyatra.com/logo-512.png" width="120" />
+  <img src="screenshots/metroyatra_logo.jpg" width="120" />
 </p>
 
 <h1 align="center">MetroYatra</h1>
